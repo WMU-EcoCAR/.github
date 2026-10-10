@@ -18,5 +18,7 @@ Faculty advisor: Dr. Zachary Asher.
   adaptive cruise and lane centering in Simulink
 - `eic--sensors--main` (team members): the lab's radars, cameras, lidar and GPS, with
   manuals, drivers and how-tos
+- `eic--tutorials--main` (team members): Python, CARLA, Git and CAN starters, and how to
+  write a paper
 
 Repository names follow `eic--<subject>--<artifact>`.
