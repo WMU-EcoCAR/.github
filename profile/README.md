@@ -1,4 +1,4 @@
-<p align="center"><img src="team-launch.jpg" alt="The WMU EcoCAR team with the Chevrolet Blazer EV at the EcoCAR Innovation Challenge launch" width="720"></p>
+<p align="center"><img src="team-blazer-arrival.jpg" alt="The WMU EcoCAR team in front of Floyd Hall with the new Chevrolet Blazer EV on the delivery truck" width="720"><br><sub>Our Blazer EV arrives at Floyd Hall, September 2026.</sub></p>
 
 # WMU EcoCAR
 
@@ -8,7 +8,7 @@ by Argonne National Laboratory. Students from across engineering and computer sc
 re-engineer a Chevrolet Blazer EV with connected and automated driving features.
 Faculty advisor: Dr. Zachary Asher.
 
-<img src="blazer.jpg" alt="Chevrolet Blazer EV on the road" width="360" align="right">
+<img src="blazer-floyd-hall.jpg" alt="The team's white Chevrolet Blazer EV parked at Floyd Hall" width="360" align="right">
 
 **Start here**
 
@@ -20,6 +20,3 @@ Faculty advisor: Dr. Zachary Asher.
   manuals, drivers and how-tos
 
 Repository names follow `eic--<subject>--<artifact>`.
-
-<sub>Photos: launch by Matthew LaVere Photography for AVTC; vehicle image from the EcoCAR
-Innovation Challenge.</sub>
